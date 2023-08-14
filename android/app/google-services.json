@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "569657348353",
+    "project_id": "ineedhelp-c2ed5",
+    "storage_bucket": "ineedhelp-c2ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569657348353:android:3b1c3ef5aeed3610e28b00",
+        "android_client_info": {
+          "package_name": "com.aplicativo.ineedhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569657348353-vhf56pu4jgkmf8edesmf3fduubvteb61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMSDuD69PMddQD9KmTQG69TMZ95trzP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569657348353-vhf56pu4jgkmf8edesmf3fduubvteb61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569657348353-en2r525jdsvf6lbmmk5t9qil4oejtt1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aplicativo.ineedhelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
